@@ -1,0 +1,1 @@
+This is an exercise of using the Git from VS code.
